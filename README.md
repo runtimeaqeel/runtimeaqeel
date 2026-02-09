@@ -96,12 +96,6 @@ I build production-ready web/mobile apps and AI systems that solve real operatio
 
 ---
 
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=runtimeaqeel&show_icons=true&theme=tokyonight" alt="Aqeel's GitHub Stats" />
-</p>
-
----
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqeel-abbas-shah)
